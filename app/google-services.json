@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "132028646290",
+    "project_id": "my-memory-55b54",
+    "storage_bucket": "my-memory-55b54.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:132028646290:android:0690a953bf77500ebdb74b",
+        "android_client_info": {
+          "package_name": "com.biszaal.memorygame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "132028646290-od5i1lmttie4k5lhhengcbcat39ji8rq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnxUs57bdjgkawzZZFrMqADGQzMB-xkSw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "132028646290-od5i1lmttie4k5lhhengcbcat39ji8rq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
